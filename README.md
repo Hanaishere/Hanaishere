@@ -16,5 +16,10 @@ I love to sketch , write music and watch anime.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hanaishere&icon=0&color=0)](https://visitcount.itsvg.in)
+🐍 GitHub Snake Game
+![snake gif](https://github.com/Hanaishere/Hanaishere/blob/output/github-contribution-grid-snake.svg)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hanaishere&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
