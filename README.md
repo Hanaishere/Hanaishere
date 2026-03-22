@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhvdWx6dGJhMm9wemg4aGoxOG54cDd6czYwdmE3bW1qaWJncWVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G7gwqCToLbtHST755p/giphy.gif" width="100%" />
-  </p>
-  <h1 align="center">🎮 Anushree Bose 🎮</h1>
-<p align="center">Software Developer |Uni Grad| Dream - Code - Eat - Repeat ✨</p>
+</p>
+
+<br>
+
+<h1 align="center">🎮 Anushree Bose 🎮</h1>
+<p align="center">Software Developer | Uni Grad | Dream - Code - Eat - Repeat ✨</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anushree-bose-100106298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boseanushree004@gmail.com) 
 
