@@ -21,9 +21,7 @@
 
 # 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hanaishere/Hanaishere/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/Hanaishere/Hanaishere/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Hanaishere/Hanaishere/output/ocean.gif" />
 </p>
 
 # 📊 GitHub Stats:
