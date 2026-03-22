@@ -37,3 +37,7 @@
 [![](https://visitcount.itsvg.in/api?id=Hanaishere&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hanaishere&color=0ea5e9&style=flat-square" />
+</p>
