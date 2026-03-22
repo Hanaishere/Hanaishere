@@ -2,7 +2,7 @@
 <p align="center">Software Developer | Building Dreams into Code </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/your-anime-gif.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWo5c3F0dWpyd3RmamxwYjE5ODAwYnVnM3RtYTFpejF6bGZtZWxrdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hkqefnFjn2MWVl6xvq/giphy.gif" width="400"/>
 </p>
 
 ## 🌐 Socials:
