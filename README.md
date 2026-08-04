@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <span style="font-family: monospace; font-size:25px; color:#38BDF8; letter-spacing:1px;">
-    Software Developer | Dream • Code • Repeat ✨
+    Software Developer ? || caffine goblin || weeb
   </span>
 </p>
 
